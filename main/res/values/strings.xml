@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="btnNameSTART">START</string>
+    <string name="btnNameSTOP">STOP</string>
+    <string name="btnNameDISCONNECT">DISCONNECT</string>
+    <string name="STRING_TODO">TODO</string>
+    <string name="STRING_DOT">...</string>
+</resources>
